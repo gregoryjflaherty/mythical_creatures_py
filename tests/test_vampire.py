@@ -1,5 +1,5 @@
 import pytest
-from vampire import Vampire  
+from lib.vampire import Vampire  
 
 def test_vampire_has_name():
     pytest.skip("Test is not implemented yet")
