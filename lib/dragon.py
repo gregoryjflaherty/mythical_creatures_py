@@ -1,3 +1,3 @@
-class Hobbit:
+class Dragon:
     def __init__(self):
         pass
