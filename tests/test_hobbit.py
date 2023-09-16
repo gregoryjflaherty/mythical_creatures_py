@@ -3,18 +3,15 @@ from lib.hobbit import Hobbit
 
 def test_hobbit_has_name():
     pytest.skip("Test is not implemented yet")
-    pytest.skip("Test is not implemented yet")
     hobbit = Hobbit('Bilbo')
     assert hobbit.name == 'Bilbo'
 
 def test_hobbit_can_have_another_name():
     pytest.skip("Test is not implemented yet")
-    pytest.skip("Test is not implemented yet")
     hobbit = Hobbit('Peregrin')
     assert hobbit.name == 'Peregrin'
 
 def test_hobbit_has_unadventurous_disposition():
-    pytest.skip("Test is not implemented yet")
     pytest.skip("Test is not implemented yet")
     hobbit = Hobbit('Samwise')
     assert hobbit.disposition == 'homebody'
